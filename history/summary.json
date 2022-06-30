@@ -1,20 +1,42 @@
 [
   {
     "name": "Prediabetes",
-    "url": "https://apollo-ahc-prediabetes.azurewebsites.net/",
-    "icon": "https://favicons.githubusercontent.com/apollo-ahc-prediabetes.azurewebsites.net",
+    "url": "$prediabetes_url",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prediabetes",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "98.76%",
     "time": 1006,
     "timeDay": 1006,
     "timeWeek": 1006,
     "timeMonth": 1006,
     "timeYear": 1006,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
+  },
+  {
+    "name": "AICVD",
+    "url": "$aicvd_url",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "aicvd",
+    "status": "down",
+    "uptime": "24.09%",
+    "uptimeDay": "24.09%",
+    "uptimeWeek": "24.09%",
+    "uptimeMonth": "24.09%",
+    "uptimeYear": "24.09%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
