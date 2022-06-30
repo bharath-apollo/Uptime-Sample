@@ -4,7 +4,9 @@ repo: Uptime-Sample # The name of this repository
 
 sites:
   - name: Prediabetes
-    url: https://apollo-ahc-prediabetes.azurewebsites.net/
+    url: $prediabetes_url
+  - name: AICVD
+    url: $aicvd_url
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
