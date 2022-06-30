@@ -3,8 +3,8 @@ owner: bharath-apollo # Your GitHub organization or username, where this reposit
 repo: Uptime-Sample # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Prediabetes
+    url: https://apollo-ahc-prediabetes.azurewebsites.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
