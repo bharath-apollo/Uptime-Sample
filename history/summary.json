@@ -4,19 +4,19 @@
     "url": "$PREDIABETES_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prediabetes",
-    "status": "down",
-    "uptime": "65.28%",
-    "uptimeDay": "65.28%",
-    "uptimeWeek": "65.28%",
-    "uptimeMonth": "65.28%",
-    "uptimeYear": "65.28%",
-    "time": 1006,
-    "timeDay": 1006,
-    "timeWeek": 1006,
-    "timeMonth": 1006,
-    "timeYear": 1006,
+    "status": "up",
+    "uptime": "9.49%",
+    "uptimeDay": "9.49%",
+    "uptimeWeek": "9.49%",
+    "uptimeMonth": "9.49%",
+    "uptimeYear": "9.49%",
+    "time": 1440,
+    "timeDay": 1440,
+    "timeWeek": 1440,
+    "timeMonth": 1440,
+    "timeYear": 1440,
     "dailyMinutesDown": {
-      "2022-06-30": 4
+      "2022-06-30": 77
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$AICVD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "aicvd",
-    "status": "down",
-    "uptime": "0.28%",
-    "uptimeDay": "0.28%",
-    "uptimeWeek": "0.28%",
-    "uptimeMonth": "0.28%",
-    "uptimeYear": "0.28%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 1063,
+    "timeDay": 1063,
+    "timeWeek": 1063,
+    "timeMonth": 1063,
+    "timeYear": 1063,
     "dailyMinutesDown": {
-      "2022-06-30": 4
+      "2022-06-30": 77
     }
   }
 ]
