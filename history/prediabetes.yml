@@ -1,7 +1,7 @@
-url: https://apollo-ahc-prediabetes.azurewebsites.net/
-status: up
-code: 200
-responseTime: 1006
-lastUpdated: 2022-06-30T07:09:23.903Z
+url: $prediabetes_url
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-06-30T07:17:22.007Z
 startTime: Thu Jun 30 2022 07:09:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
