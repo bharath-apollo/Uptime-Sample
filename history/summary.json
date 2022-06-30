@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "prediabetes",
     "status": "down",
-    "uptime": "79.32%",
-    "uptimeDay": "79.32%",
-    "uptimeWeek": "79.32%",
-    "uptimeMonth": "79.32%",
-    "uptimeYear": "79.32%",
+    "uptime": "65.28%",
+    "uptimeDay": "65.28%",
+    "uptimeWeek": "65.28%",
+    "uptimeMonth": "65.28%",
+    "uptimeYear": "65.28%",
     "time": 1006,
     "timeDay": 1006,
     "timeWeek": 1006,
     "timeMonth": 1006,
     "timeYear": 1006,
     "dailyMinutesDown": {
-      "2022-06-30": 2
+      "2022-06-30": 4
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "aicvd",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.28%",
+    "uptimeDay": "0.28%",
+    "uptimeWeek": "0.28%",
+    "uptimeMonth": "0.28%",
+    "uptimeYear": "0.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-30": 2
+      "2022-06-30": 4
     }
   }
 ]
